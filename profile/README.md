@@ -2,15 +2,14 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/180x180.png?text=ZyroNetwork.png" width="180">
-
+<img src="./ZyroNetwork.png" width="220">
 # ZyroNetwork
 
 ### Innovation • Performance • Reliability
 
 *Building high-performance software solutions and maintaining community-driven projects.*
 
-[Website](https://zyronetwork.example) • [Projects](#our-projects) • [Contact](#contact)
+[Website](https://discord.gg/n9YfNCfDh9) • [Projects](#our-projects) • [Contact](#contact)
 
 </div>
 

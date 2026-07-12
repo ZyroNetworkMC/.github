@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/180x180.png?text=ZyroNetwork" width="180">
+<img src="https://via.placeholder.com/180x180.png?text=ZyroNetwork.png" width="180">
 
 # ZyroNetwork
 

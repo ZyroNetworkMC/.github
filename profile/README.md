@@ -165,8 +165,8 @@ Our systems are designed to be dependable and efficient.
 For collaborations, custom development, or business inquiries:
 
 * GitHub Organization: https://github.com/ZyroNetwork
-* Email: [contact@zyronetwork.dev](mailto:contact@zyronetwork.dev)
-* Discord: Coming Soon
+* Email: [zyronetworkofficial@gmail.com](mailto:zyronetworkofficial@gmail.com)
+* Discord: [ZyroNetwork Discord](https://discord.gg/n9YfNCfDh9)
 
 ---
 
